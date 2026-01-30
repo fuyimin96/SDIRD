@@ -4,5 +4,5 @@ Pytorch implementation for Semantic-Driven Interactive Representation Disentangl
 The code will be released upon acceptance.
 
 <p align="center">
-    <img src=./retri_vis.png width="800">
+    <img src=./retri_vi.png width="800">
 </p>
